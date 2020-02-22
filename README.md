@@ -1,0 +1,1 @@
+The Discord bot uses the DiscordAPI to run specific commands on the student's chat server. More specifically, if certain keywords are entered into the text box, the listener we programmed will run case-specific commands. For example, scraping data about certain users and outputting data back to the screen or requesting a random picture to be shown to the screen.
