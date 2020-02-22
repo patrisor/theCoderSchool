@@ -1,0 +1,1 @@
+This game is a top-down rpg, programmed using python and the Processing API built on top of the Trinket IDE. The background is simply a 2D still picture which dynamically changes based on whether the dinosaur character has moved in any direction off-screen. Each new area contains new items that randomly spawn based on the area.
